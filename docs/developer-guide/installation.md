@@ -64,9 +64,9 @@ pip install uv
 
 ### Install from GitHub
 ```bash
-uv pip install "git+https://github.com/Serapieum-of-alex/serapeum.git"
+uv pip install "git+https://github.com/serapeum-org/serapeum.git"
 # or a specific tag (example: v0.1.0)
-uv pip install "git+https://github.com/Serapieum-of-alex/serapeum.git@v0.1.0"
+uv pip install "git+https://github.com/serapeum-org/serapeum.git@v0.1.0"
 ```
 
 ## Alternative: Using pip
@@ -94,9 +94,9 @@ uv pip install "git+https://github.com/Serapieum-of-alex/serapeum.git@v0.1.0"
 
 4. **Install from GitHub with pip**
    ```bash
-   pip install "git+https://github.com/Serapieum-of-alex/serapeum.git"
+   pip install "git+https://github.com/serapeum-org/serapeum.git"
    # or a specific tag
-   pip install "git+https://github.com/Serapieum-of-alex/serapeum.git@v0.1.0"
+   pip install "git+https://github.com/serapeum-org/serapeum.git@v0.1.0"
    ```
 
 ## Common uv Commands
@@ -167,5 +167,5 @@ print(serapeum.__version__)
 ## Additional Resources
 - [uv Documentation](https://github.com/astral-sh/uv)
 - [PEP 621 - Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
-- Project homepage: https://github.com/Serapieum-of-alex/serapeum
+- Project homepage: https://github.com/serapeum-org/serapeum
 - Documentation: https://serapeum.readthedocs.io/

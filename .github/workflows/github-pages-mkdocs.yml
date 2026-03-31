@@ -24,7 +24,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: Serapieum-of-alex/github-actions/actions/mkdocs-deploy@mkdocs/v1
+      - uses: serapeum-org/github-actions/actions/mkdocs-deploy@mkdocs/v1
         with:
           trigger: 'pull_request'
           package-manager: 'uv'
@@ -40,7 +40,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: Serapieum-of-alex/github-actions/actions/mkdocs-deploy@mkdocs/v1
+      - uses: serapeum-org/github-actions/actions/mkdocs-deploy@mkdocs/v1
         with:
           trigger: 'main'
           package-manager: 'uv'
@@ -56,7 +56,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: Serapieum-of-alex/github-actions/actions/mkdocs-deploy@mkdocs/v1
+      - uses: serapeum-org/github-actions/actions/mkdocs-deploy@mkdocs/v1
         with:
           trigger: 'release'
           package-manager: 'uv'

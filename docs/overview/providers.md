@@ -207,7 +207,7 @@ All providers follow the same pattern:
 
 ### Reference Implementation
 
-The **[Ollama provider](https://github.com/Serapieum-of-alex/Serapeum/tree/main/libs/providers/ollama)** serves as a complete reference showing:
+The **[Ollama provider](https://github.com/serapeum-org/Serapeum/tree/main/libs/providers/ollama)** serves as a complete reference showing:
 
 - Full LLM implementation with streaming and async support
 - Embedding implementation with batching
@@ -240,7 +240,7 @@ Use this checklist when implementing a new provider:
 For provider-specific issues:
 
 - **Ollama**: [Ollama GitHub](https://github.com/ollama/ollama)
-- **Serapeum Integration**: [Serapeum Issues](https://github.com/Serapieum-of-alex/Serapeum/issues)
+- **Serapeum Integration**: [Serapeum Issues](https://github.com/serapeum-org/Serapeum/issues)
 
 For general framework questions, see the [Contributing Guide](../developer-guide/contributing.md).
 

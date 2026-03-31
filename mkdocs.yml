@@ -1,8 +1,8 @@
 site_name: Serapeum
 site_description: LLM package
-site_url: https://serapieum-of-alex.github.io/Serapeum/
-repo_url: https://github.com/Serapieum-of-alex/Serapeum
-repo_name: Serapieum-of-alex/Serapeum
+site_url: https://serapeum-org.github.io/Serapeum/
+repo_url: https://github.com/serapeum-org/Serapeum
+repo_name: serapeum-org/Serapeum
 dev_addr: '127.0.0.1:10000'
 
 theme:
@@ -174,7 +174,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Serapieum-of-alex/Serapeum
+      link: https://github.com/serapeum-org/Serapeum
   version:
       provider: mike
   version_selector: true

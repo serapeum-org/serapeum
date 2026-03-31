@@ -669,11 +669,11 @@ python -m pytest libs/providers/ollama/tests --cov=serapeum.ollama
 
 ## Links
 
-- **Homepage**: [https://github.com/Serapieum-of-alex/serapeum](https://github.com/Serapieum-of-alex/serapeum)
+- **Homepage**: [https://github.com/serapeum-org/serapeum](https://github.com/serapeum-org/serapeum)
 - **Documentation**: [https://serapeum.readthedocs.io/](https://serapeum.readthedocs.io/)
 - **Ollama**: [https://ollama.com/](https://ollama.com/)
-- **Changelog**: [HISTORY.rst](https://github.com/Serapieum-of-alex/serapeum/blob/main/HISTORY.rst)
+- **Changelog**: [HISTORY.rst](https://github.com/serapeum-org/serapeum/blob/main/HISTORY.rst)
 
 ---
 
-**Questions or issues?** Open an issue on [GitHub](https://github.com/Serapieum-of-alex/serapeum/issues).
+**Questions or issues?** Open an issue on [GitHub](https://github.com/serapeum-org/serapeum/issues).

@@ -528,9 +528,9 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/Serapieum-of-alex/serapeum"
-repository = "https://github.com/Serapieum-of-alex/serapeum"
-documentation = "https://serapieum-of-alex.github.io/serapeum/"
+homepage = "https://github.com/serapeum-org/serapeum"
+repository = "https://github.com/serapeum-org/serapeum"
+documentation = "https://serapeum-org.github.io/serapeum/"
 
 [tool.uv.sources]
 serapeum-core = { workspace = true }
@@ -740,7 +740,7 @@ print(response.message.content)
 
 ## Configuration
 
-See the [documentation](https://serapieum-of-alex.github.io/serapeum/) for detailed configuration options.
+See the [documentation](https://serapeum-org.github.io/serapeum/) for detailed configuration options.
 
 ## Testing
 
@@ -751,8 +751,8 @@ uv run pytest
 
 ## Links
 
-- [Documentation](https://serapieum-of-alex.github.io/serapeum/)
-- [Serapeum Repository](https://github.com/Serapieum-of-alex/serapeum)
+- [Documentation](https://serapeum-org.github.io/serapeum/)
+- [Serapeum Repository](https://github.com/serapeum-org/serapeum)
 - [`{Provider} Documentation`](`{provider_docs_url}`)
 ```
 
@@ -815,7 +815,7 @@ When implementing a new provider, ensure:
 
 ## Reference Implementation
 
-See the **[Ollama provider](https://github.com/Serapieum-of-alex/Serapeum/tree/main/libs/providers/ollama)** for a complete reference implementation showing:
+See the **[Ollama provider](https://github.com/serapeum-org/Serapeum/tree/main/libs/providers/ollama)** for a complete reference implementation showing:
 
 - LLM implementation with streaming and async
 - Embedding implementation with batching
@@ -891,9 +891,9 @@ Use configuration parameters instead of hardcoding URLs, timeouts, etc.
 
 For help implementing a new provider:
 
-- Review the [Ollama provider](https://github.com/Serapieum-of-alex/Serapeum/tree/main/libs/providers/ollama) implementation
+- Review the [Ollama provider](https://github.com/serapeum-org/Serapeum/tree/main/libs/providers/ollama) implementation
 - Check the [API Reference](../../reference/core/llms/llm-classes-comparison.md)
-- Open an issue on [GitHub](https://github.com/Serapieum-of-alex/Serapeum/issues)
+- Open an issue on [GitHub](https://github.com/serapeum-org/Serapeum/issues)
 
 ---
 
