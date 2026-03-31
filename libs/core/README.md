@@ -171,6 +171,6 @@ Configs.structured_output_mode = StructuredOutputMode.OPENAI
 
 ## Links
 
-- Homepage: https://github.com/Serapieum-of-alex/serapeum
+- Homepage: https://github.com/serapeum-org/serapeum
 - Docs: https://serapeum.readthedocs.io/
-- Changelog: https://github.com/Serapieum-of-alex/serapeum/HISTORY.rst
+- Changelog: https://github.com/serapeum-org/serapeum/HISTORY.rst

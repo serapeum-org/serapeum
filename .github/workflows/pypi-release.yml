@@ -58,7 +58,7 @@ jobs:
           git checkout "$TAG"
 
       - name: Build and publish to PyPI
-        uses: Serapieum-of-alex/github-actions/actions/release/pypi@pypi-release/v1
+        uses: serapeum-org/github-actions/actions/release/pypi@pypi-release/v1
         with:
           package: ${{ env.PACKAGE }}
           pypi-username: __token__

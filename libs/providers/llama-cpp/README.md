@@ -256,6 +256,6 @@ python -m pytest libs/providers/llama-cpp/tests -m e2e
 
 ## Links
 
-- **Homepage**: [github.com/Serapieum-of-alex/serapeum](https://github.com/Serapieum-of-alex/serapeum)
-- **Documentation**: [serapieum-of-alex.github.io/serapeum](https://serapieum-of-alex.github.io/serapeum)
+- **Homepage**: [github.com/serapeum-org/serapeum](https://github.com/serapeum-org/serapeum)
+- **Documentation**: [serapeum-org.github.io/serapeum](https://serapeum-org.github.io/serapeum)
 - **llama-cpp-python**: [github.com/abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)

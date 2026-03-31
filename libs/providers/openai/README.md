@@ -299,8 +299,8 @@ variable.
 ## Links
 
 - **Homepage**:
-  [github.com/Serapieum-of-alex/serapeum](https://github.com/Serapieum-of-alex/serapeum)
+  [github.com/serapeum-org/serapeum](https://github.com/serapeum-org/serapeum)
 - **Documentation**:
-  [serapieum-of-alex.github.io/serapeum](https://serapieum-of-alex.github.io/serapeum)
+  [serapeum-org.github.io/serapeum](https://serapeum-org.github.io/serapeum)
 - **OpenAI API**:
   [platform.openai.com/docs](https://platform.openai.com/docs)

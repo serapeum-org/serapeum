@@ -806,4 +806,4 @@ For Ollama-specific issues:
 - [Ollama GitHub Issues](https://github.com/ollama/ollama/issues)
 
 For Serapeum integration issues:
-- [Serapeum GitHub Issues](https://github.com/Serapieum-of-alex/Serapeum/issues)
+- [Serapeum GitHub Issues](https://github.com/serapeum-org/Serapeum/issues)

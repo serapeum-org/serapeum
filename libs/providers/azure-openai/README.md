@@ -176,8 +176,8 @@ python -m pytest libs/providers/azure-openai/tests -m "not e2e"
 ## Links
 
 - **Homepage**:
-  [github.com/Serapieum-of-alex/serapeum](https://github.com/Serapieum-of-alex/serapeum)
+  [github.com/serapeum-org/serapeum](https://github.com/serapeum-org/serapeum)
 - **Documentation**:
-  [serapieum-of-alex.github.io/serapeum](https://serapieum-of-alex.github.io/serapeum)
+  [serapeum-org.github.io/serapeum](https://serapeum-org.github.io/serapeum)
 - **Azure OpenAI Service**:
   [learn.microsoft.com/azure/ai-services/openai](https://learn.microsoft.com/azure/ai-services/openai)
